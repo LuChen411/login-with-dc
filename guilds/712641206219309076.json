@@ -1,0 +1,272 @@
+[
+  {
+    "id": "788295408148676608",
+    "name": "\u9732\u6668\u7684\u670d\u52a1\u5668",
+    "icon": "87902aa498767ae326054e59f3c0e35e",
+    "owner": true,
+    "permissions": 2147483647,
+    "permissions_new": "562949953421311",
+    "features": []
+  },
+  {
+    "id": "868278676385587250",
+    "name": "411\u804a\u5929\u7fa4\uff0c411\u966a\u804a",
+    "icon": "d00d7ed578880cfda47820a6499ad5a0",
+    "owner": true,
+    "permissions": 2147483647,
+    "permissions_new": "562949953421311",
+    "features": [
+      "NEWS",
+      "COMMUNITY"
+    ]
+  },
+  {
+    "id": "904743306829910037",
+    "name": "Omlet of SXHK SERVER",
+    "icon": "3448f96257b4fe8132882213135e49ee",
+    "owner": false,
+    "permissions": 2147483647,
+    "permissions_new": "562949953421311",
+    "features": [
+      "CHANNEL_ICON_EMOJIS_GENERATED",
+      "SOUNDBOARD",
+      "WELCOME_SCREEN_ENABLED",
+      "AUTO_MODERATION",
+      "NEWS",
+      "COMMUNITY"
+    ]
+  },
+  {
+    "id": "924976365852311572",
+    "name": "Technowledge411\u7684\u804a\u5929\u670d\u52d9\u5668",
+    "icon": "43cc910b2b0a32360678bbaaf37bffac",
+    "owner": true,
+    "permissions": 2147483647,
+    "permissions_new": "562949953421311",
+    "features": []
+  },
+  {
+    "id": "965035534349123715",
+    "name": "411\u958b\u767c\u7d44",
+    "icon": "9c03ce91273dd3bcf6b67c7452681d03",
+    "owner": true,
+    "permissions": 2147483647,
+    "permissions_new": "562949953421311",
+    "features": [
+      "TEXT_IN_VOICE_ENABLED",
+      "NEWS",
+      "COMMUNITY"
+    ]
+  },
+  {
+    "id": "968464044623278101",
+    "name": "MY Bot\u7684\u670d\u52a1\u5668",
+    "icon": "b3f4e5ee6cf1739e134c8250da6cd2d2",
+    "owner": true,
+    "permissions": 2147483647,
+    "permissions_new": "562949953421311",
+    "features": [
+      "NEWS",
+      "COMMUNITY"
+    ]
+  },
+  {
+    "id": "995269084428128319",
+    "name": "abc",
+    "icon": "8432775f4776acab80dd2ea50dad1277",
+    "owner": true,
+    "permissions": 2147483647,
+    "permissions_new": "562949953421311",
+    "features": []
+  },
+  {
+    "id": "996570357249102014",
+    "name": "Discord Bot Studio",
+    "icon": "e847d97c3881fc61501a5e58de8d5388",
+    "owner": false,
+    "permissions": 2147483647,
+    "permissions_new": "562949953421311",
+    "features": [
+      "AUTO_MODERATION",
+      "NEWS",
+      "PREVIEW_ENABLED",
+      "MEMBER_VERIFICATION_GATE_ENABLED",
+      "COMMUNITY"
+    ]
+  },
+  {
+    "id": "1008267260584005642",
+    "name": "Moyoshi\u4e09\u597d\u6a5f\u5668\u4eba \u5b98\u65b9\u7fa4",
+    "icon": "bfecc70b62946499afcd183e92e99e04",
+    "owner": false,
+    "permissions": 2147483647,
+    "permissions_new": "562949953421311",
+    "features": [
+      "NEWS",
+      "CHANNEL_ICON_EMOJIS_GENERATED",
+      "COMMUNITY"
+    ]
+  },
+  {
+    "id": "1069069735095963658",
+    "name": "LCMY",
+    "icon": "44c27827e8cc496aa0dc9bdd823a2de8",
+    "owner": true,
+    "permissions": 2147483647,
+    "permissions_new": "562949953421311",
+    "features": [
+      "GUILD_ONBOARDING",
+      "CHANNEL_ICON_EMOJIS_GENERATED",
+      "GUILD_ONBOARDING_EVER_ENABLED",
+      "AUTO_MODERATION",
+      "NEWS",
+      "PREVIEW_ENABLED",
+      "GUILD_ONBOARDING_HAS_PROMPTS",
+      "MEMBER_VERIFICATION_GATE_ENABLED",
+      "COMMUNITY"
+    ]
+  },
+  {
+    "id": "1079657763300454430",
+    "name": "Server AwA",
+    "icon": "e6c28b6cbfddbc14c605ecceeac87d53",
+    "owner": true,
+    "permissions": 2147483647,
+    "permissions_new": "562949953421311",
+    "features": []
+  },
+  {
+    "id": "1079658336351428608",
+    "name": "\u79c1\u4eba\u4f3a\u670d\u56681w1",
+    "icon": null,
+    "owner": true,
+    "permissions": 2147483647,
+    "permissions_new": "562949953421311",
+    "features": [
+      "NEWS",
+      "COMMUNITY"
+    ]
+  },
+  {
+    "id": "1079667414452686868",
+    "name": "\u5c0f\u767d\u9f20\u4f3a\u670d\u5668",
+    "icon": null,
+    "owner": true,
+    "permissions": 2147483647,
+    "permissions_new": "562949953421311",
+    "features": []
+  },
+  {
+    "id": "1080074028489900032",
+    "name": "Minecraft Server",
+    "icon": "a15603b317cd118abf43251e80675cd7",
+    "owner": true,
+    "permissions": 2147483647,
+    "permissions_new": "562949953421311",
+    "features": [
+      "CHANNEL_ICON_EMOJIS_GENERATED",
+      "SOUNDBOARD",
+      "WELCOME_SCREEN_ENABLED",
+      "GUESTS_ENABLED"
+    ]
+  },
+  {
+    "id": "1096380956157427793",
+    "name": "\u6a5f\u5668\u4eba\u5be6\u9a57\u6240",
+    "icon": "995628c9472c0c6c6be51131a6392466",
+    "owner": false,
+    "permissions": 2147483647,
+    "permissions_new": "562949953421311",
+    "features": [
+      "SOUNDBOARD",
+      "CHANNEL_ICON_EMOJIS_GENERATED"
+    ]
+  },
+  {
+    "id": "1104217306923548744",
+    "name": "\u81ea\u52d5\u7c3d\u5230",
+    "icon": "89eb9e5c09d3cad1c9a0d1a55d3b8bb8",
+    "owner": true,
+    "permissions": 2147483647,
+    "permissions_new": "562949953421311",
+    "features": [
+      "CHANNEL_ICON_EMOJIS_GENERATED"
+    ]
+  },
+  {
+    "id": "1109003405025869856",
+    "name": "\u84dd\u8272\u6708\u4eae",
+    "icon": "9cddaf535d3f8fc190ae0145510ce6ba",
+    "owner": false,
+    "permissions": 2147483647,
+    "permissions_new": "562949953421311",
+    "features": [
+      "SOUNDBOARD",
+      "CHANNEL_ICON_EMOJIS_GENERATED"
+    ]
+  },
+  {
+    "id": "1159629373553520640",
+    "name": "\u5c0f\u732b\u732b\u670d\u52a1\u5668",
+    "icon": "60076a1e2418e610657d5704007c2492",
+    "owner": false,
+    "permissions": 2147483647,
+    "permissions_new": "562949953421311",
+    "features": [
+      "NEWS",
+      "SOUNDBOARD",
+      "CHANNEL_ICON_EMOJIS_GENERATED",
+      "COMMUNITY"
+    ]
+  },
+  {
+    "id": "1167805664681279558",
+    "name": "\u62cd\u7247",
+    "icon": "fbf6af7f4b4b42af402135b26817ed99",
+    "owner": true,
+    "permissions": 2147483647,
+    "permissions_new": "562949953421311",
+    "features": [
+      "CHANNEL_ICON_EMOJIS_GENERATED"
+    ]
+  },
+  {
+    "id": "1202980537690624020",
+    "name": "LCMY \u00b7 Bunny Bot",
+    "icon": "d2e79f2b90d988ce510cfecb53b2e560",
+    "owner": true,
+    "permissions": 2147483647,
+    "permissions_new": "562949953421311",
+    "features": [
+      "NEWS",
+      "COMMUNITY"
+    ]
+  },
+  {
+    "id": "1211334968433967136",
+    "name": "MINECRAFT | \u96ea\u7403\u9818\u57df",
+    "icon": "00036b9ec2405307f8e85982b0eb4a7e",
+    "owner": false,
+    "permissions": 2147483647,
+    "permissions_new": "562949953421311",
+    "features": [
+      "GUILD_ONBOARDING",
+      "ANIMATED_BANNER",
+      "GUILD_ONBOARDING_EVER_ENABLED",
+      "BANNER",
+      "SOUNDBOARD",
+      "PRIVATE_THREADS",
+      "ANIMATED_ICON",
+      "GUILD_SERVER_GUIDE",
+      "NEWS",
+      "INVITE_SPLASH",
+      "SEVEN_DAY_THREAD_ARCHIVE",
+      "VANITY_URL",
+      "ROLE_ICONS",
+      "GUILD_ONBOARDING_HAS_PROMPTS",
+      "MEMBER_PROFILES",
+      "THREE_DAY_THREAD_ARCHIVE",
+      "COMMUNITY"
+    ]
+  }
+]
