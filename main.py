@@ -3,11 +3,11 @@ import requests
 import json
 
 app = Flask(__name__)
-app.secret_key = 'lc411'  # 设置 session 的密钥
+app.secret_key = ''  # 设置 session 的密钥
 
 # Discord 应用的配置
-CLIENT_ID = '1119558014211461221'
-CLIENT_SECRET = 'mokXP_DO4GUvRYFfaqBcHIomOVsHuCNL'
+CLIENT_ID = ''
+CLIENT_SECRET = ''
 REDIRECT_URI = 'http://localhost:5000/callback'  # 在 Discord 开发者门户中设置的回调地址
 
 # 认证路由
